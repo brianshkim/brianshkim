@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <br></br>
+  <img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white">
 </div>
 
 ### Hi!
