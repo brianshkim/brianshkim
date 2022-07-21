@@ -3,7 +3,7 @@
 </div>
 
 ### Hi!
-   My name is Brian.  My projects explore technical libraries to see how they work.  I like to see how programs from major companies work and try to implement my own code.  
+   My name is Brian.  My projects explore technical libraries and frameworks.  I like to see how programs from major companies work and try to implement my own code.  
   
   Here are some technologies I work with:
   
